@@ -1,6 +1,6 @@
 # ORCA: Online Reasoning Calibration
 
-Code, probes, and embeddings for *Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning* ([arXiv:2604.01170](https://arxiv.org/abs/2604.01170)).
+Code, probes, and embeddings for [Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning](https://arxiv.org/abs/2604.01170) (COLM 2026).
 
 ## Released artifacts
 
